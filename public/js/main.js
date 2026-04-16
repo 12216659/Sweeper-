@@ -5,10 +5,10 @@
 
 // Config - Update these
 const CONFIG = {
-  whatsapp: '919876543210', // Replace with your actual WhatsApp number (country code + number)
+  whatsapp: '918317546078', // Replace with your actual WhatsApp number (country code + number)
   businessName: 'Sweeper Cleaning Services',
   email: 'hello@sweeperclean.in',
-  phone: '+91 98765 43210',
+  phone: '+91 83175 46078',
   address: 'Jalandhar, Punjab, India'
 };
 
